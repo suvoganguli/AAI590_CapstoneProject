@@ -21,5 +21,5 @@ The goal is to develop a machine learning model that can predict in-hospital mor
 ## Notes
 
 - Notebooks and analysis code are located in the `notebooks/` directory.
-- Reports and project plans are located in the `reports/' directory.
+- Reports and project plans are located in the `reports/` directory.
 
