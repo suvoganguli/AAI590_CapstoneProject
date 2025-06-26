@@ -12,18 +12,14 @@ The goal is to develop a machine learning model that can predict in-hospital mor
 
 ## Repository Structure
 
-├── notebooks/ # Jupyter notebooks (EDA, modeling, etc.)
-
-├── data/ # Raw patient data (excluded from GitHub)
-
-├── reports/ # Project documents (e.g., proposal, writeup)
-
-├── README.md # Project description and instructions
-
-└── .gitignore # Git ignore rules (e.g., to skip data/)
+- notebooks/      # Jupyter notebooks (EDA, modeling, etc.)
+- data/           # Raw patient data (excluded from GitHub)
+- reports/        # Project documents (e.g., proposal, writeup)
+- README.md       # Project description and instructions
+- .gitignore      # Git ignore rules (e.g., to skip data/)
 
 ## Notes
 
 - Notebooks and analysis code are located in the `notebooks/` directory.
-- Reports and project plans are located in the `reports/' directory.
+- Reports and project plans are located in the `reports/` directory.
 
