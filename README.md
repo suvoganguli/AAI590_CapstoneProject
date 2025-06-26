@@ -13,9 +13,13 @@ The goal is to develop a machine learning model that can predict in-hospital mor
 ## Repository Structure
 
 ├── notebooks/ # Jupyter notebooks (EDA, modeling, etc.)
+
 ├── data/ # Raw patient data (excluded from GitHub)
+
 ├── reports/ # Project documents (e.g., proposal, writeup)
+
 ├── README.md # Project description and instructions
+
 └── .gitignore # Git ignore rules (e.g., to skip data/)
 
 ## Notes
