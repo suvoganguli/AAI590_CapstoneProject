@@ -11,6 +11,12 @@ The goal is to develop a machine learning model that can predict in-hospital mor
 
 ## Team Members
 
+| GitHub Handle | Name                     | Email                          |
+|---------------|--------------------------|--------------------------------|
+| [@suvoganguli](https://github.com/suvoganguli)     | Subhabrata Ganguli         | subhabrata.ganguli@gmail.com |
+| [@jgullinkala](https://github.com/jgullinkala)     | Jeevan Gullinkala           | jgullinkala@sandiego.edu     |
+| [@lrapolu](https://github.com/lrapolu)             | Laxmi Sulakshana Rapolu     | lrapolu@sandiego.edu         |
+
 
 ## Repository Structure
 
