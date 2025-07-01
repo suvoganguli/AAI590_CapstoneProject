@@ -22,6 +22,16 @@ The goal is to develop a machine learning model that can predict in-hospital mor
 
 ## Repository Structure
 
+- `data/`
+  - `raw/` – Unprocessed input data
+  - `processed/` – Cleaned datasets ready for modeling
+  - `features/` – Feature matrices and engineered data
+- `notebooks/` – Jupyter notebooks for EDA, modeling, and evaluation
+- `models/` – Saved models and artifacts
+- `reports/` – Generated plots, metrics, and summary outputs
+- `src/`
+  - `utils/` – Helper functions and reusable modules
+- `README.md` – Project documentation
 
 ## Notes
 
