@@ -1,6 +1,6 @@
 # AAI590_CapstoneProject
 
-This repository contains code and documentation for my AAI 590 Capstone Project: **Rapid ICU Mortality Prediction**.
+This repository contains code and documentation for  AAI 590 Capstone Project: **Rapid ICU Mortality Prediction**.
 
 ## Project Overview
 
@@ -10,13 +10,11 @@ The goal is to develop a machine learning model that can predict in-hospital mor
 - Records: 4,000 ICU stays
 - Data: Demographics, vitals, labs, outcomes
 
+## Team Members
+
+
 ## Repository Structure
 
-- notebooks/      # Jupyter notebooks (EDA, modeling, etc.)
-- data/           # Raw patient data (excluded from GitHub)
-- reports/        # Project documents (e.g., proposal, writeup)
-- README.md       # Project description and instructions
-- .gitignore      # Git ignore rules (e.g., to skip data/)
 
 ## Notes
 
