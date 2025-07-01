@@ -8,7 +8,6 @@ The goal is to develop a machine learning model that can predict in-hospital mor
 
 - Dataset: [Predict Mortality of ICU Patients (Kaggle)](https://www.kaggle.com/datasets/msafi04/predict-mortality-of-icu-patients-physionet/data)
 - Records: 4,000 ICU stays
-- Data: Demographics, vitals, labs, outcomes
 
 ## Team Members
 
