@@ -26,3 +26,10 @@ The goal is to develop a machine learning model that can predict in-hospital mor
 ## Notes
 
 
+## Project Versions & Releases
+
+This repository uses **Git tags and GitHub Releases** to track major project milestones.
+
+- **Tags** mark important points in the project timeline (e.g., `v0.1`, `v1.0`)
+- **Releases** are published snapshots based on tags and may include notebooks, reports, or model artifacts
+
