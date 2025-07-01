@@ -1,6 +1,8 @@
-# AAI590_CapstoneProject
+# AAI 590 Capstone Project: Rapid ICU Mortality Prediction
 
-This repository contains code and documentation for  AAI 590 Capstone Project: **Rapid ICU Mortality Prediction**.
+This repository contains code and documentation for the AAI 590 Capstone Project: **Rapid ICU Mortality Prediction** — developed as part of the Master of Science in Applied Artificial Intelligence (MS in AI) program at the **University of San Diego (USD)**.
+
+---
 
 ## Project Overview
 
