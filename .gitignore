@@ -4,5 +4,7 @@
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
+# Python bytecode cache directories
+__pycache__/
 
 
