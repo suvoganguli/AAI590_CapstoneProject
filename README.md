@@ -19,7 +19,6 @@ The goal is to develop a machine learning model that can predict in-hospital mor
 | [@jgullinkala](https://github.com/jgullinkala)     | Jeevan Gullinkala           | jgullinkala@sandiego.edu     |
 | [@lrapolu](https://github.com/lrapolu)             | Laxmi Sulakshana Rapolu     | lrapolu@sandiego.edu         |
 
-
 ## Repository Structure
 
 - `data/`
@@ -33,8 +32,12 @@ The goal is to develop a machine learning model that can predict in-hospital mor
   - `utils/` – Helper functions and reusable modules
 - `README.md` – Project documentation
 
-## Notes
+## Project Management
 
+We are using **Asana** to manage our Capstone tasks and progress:
+- [🔗 Capstone Project Board on Asana](https://app.asana.com/1/952672460738672/project/1210723072035418/board/1210723120232317)
+
+## Notes
 
 ## Project Versions & Releases
 
@@ -42,4 +45,3 @@ This repository uses **Git tags and GitHub Releases** to track major project mil
 
 - **Tags** mark important points in the project timeline (e.g., `v0.1`, `v1.0`)
 - **Releases** are published snapshots based on tags and may include notebooks, reports, or model artifacts
-
