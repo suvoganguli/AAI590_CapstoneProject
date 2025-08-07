@@ -32,6 +32,10 @@ The goal is to develop a machine learning model that can predict in-hospital mor
   - `utils/` – Helper functions and reusable modules
 - `README.md` – Project documentation
 
+## Saved Model Links
+- TimesFM Tuned model - https://drive.google.com/file/d/1JXsTK57N6DIJGnWK5LmJ_cAKdrj-g25B/view?usp=sharing
+- TimesFM Trained model - https://drive.google.com/file/d/1k10KekqlC3auNg4gKNwPbLaICgBuHAF3/view?usp=sharing
+
 ## Project Management
 
 We are using **Asana** to manage our Capstone tasks and progress:
