@@ -23,7 +23,7 @@ The goal is to develop a machine learning model that can predict in-hospital mor
 
 - `data/`
   - `raw/` – Unprocessed input data
-  - `processed/` – Cleaned datasets ready for modeling
+  - `processed/` – Cleaned datasets ready for modeling - CNN-LSTM Datasets (https://drive.google.com/drive/folders/1TQ5Q2ZG7uO1daxshLLaQtI3X8TatiQaP?usp=sharing)
   - `features/` – Feature matrices and engineered data
 - `notebooks/` – Jupyter notebooks for EDA, modeling, and evaluation
 - `models/` – Saved models and artifacts
