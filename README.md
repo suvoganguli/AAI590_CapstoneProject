@@ -71,7 +71,15 @@ The goal is to develop a machine learning model that can predict in-hospital mor
 We are using **Asana** to manage our Capstone tasks and progress:
 - [🔗 Capstone Project Board on Asana](https://app.asana.com/1/952672460738672/project/1210723072035418/board/1210723120232317)
 
-## Notes
+## 📝 Notes
+
+- This project uses a cleaned version of the PhysioNet 2012 dataset available on [Kaggle](https://www.kaggle.com/datasets/jamesmcguigan/icustay-mortality-prediction).
+- CNN-LSTM models require reshaped time-series input with consistent sequence lengths; padding and masking strategies are applied.
+- Transformer models (PatchTST, TimesFM) are sensitive to window size and feature scaling—see `notebooks/06b_Transformer_*` for tuning details.
+- SHAP values are computed post-hoc for interpretability; results may vary across model types and feature encodings.
+- Class imbalance is addressed using SMOTE and threshold tuning—refer to `notebooks/04c_XGBoost_Design.ipynb` for implementation.
+- Evaluation metrics prioritize **recall** to support early identification of high-risk patients.
+- For reproducibility, all models are trained and validated using stratified splits and consistent random seeds.
 
 ## Project Versions & Releases
 
