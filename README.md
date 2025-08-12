@@ -15,12 +15,42 @@ The goal is to develop a machine learning model that can predict in-hospital mor
 
 | GitHub Handle | Name                     | Email                          |
 |---------------|--------------------------|--------------------------------|
-| [@suvoganguli](https://github.com/suvoganguli)     | Subhabrata Ganguli         | subhabrata.ganguli@gmail.com |
 | [@jgullinkala](https://github.com/jgullinkala)     | Jeevan Gullinkala           | jgullinkala@sandiego.edu     |
 | [@lrapolu](https://github.com/lrapolu)             | Laxmi Sulakshana Rapolu     | lrapolu@sandiego.edu         |
+| [@suvoganguli](https://github.com/suvoganguli)     | Subhabrata Ganguli         | subhabrata.ganguli@gmail.com |
 
+## Models Used
+- XGBoost
+- CNN with LSTM
+- Transformer based models (PatchTST and TimesFM)
+
+## Technologies Used
+
+### Machine Learning & Deep Learning
+- **XGBoost** – Gradient boosting for tabular data
+- **Keras & TensorFlow** – CNN-LSTM architecture and hyperparameter tuning
+- **PyTorch** – Transformer-based models (PatchTST, TimesFM)
+- **Optuna** – Automated hyperparameter optimization
+- **Imbalanced-learn** – SMOTE and sampling strategies for class imbalance
+
+### Data Processing & Feature Engineering
+- **Pandas, NumPy** – Data manipulation and aggregation
+- **Scikit-learn** – Preprocessing, scaling, and model evaluation
+- **SHAP** – Model interpretability and feature attribution
+- **SimpleImputer, KNNImputer** – Handling missing values
+
+### Infrastructure & Workflow
+- **Google Colab** – Model training and experimentation
+- **GitHub** – Version control and collaboration
+- **Google Drive** – Dataset and model storage
+- **Asana** – Project management and task tracking
+
+## Evaluation Metrics
+- AUROC, Precision, Recall, F1 Score
+- SHAP used for interpretability
+- Comparative analysis across model architectures
+  
 ## Repository Structure
-
 - `data/`
   - `raw/` – Unprocessed input data
   - `processed/` – Cleaned datasets ready for modeling - CNN-LSTM Datasets (https://drive.google.com/drive/folders/1TQ5Q2ZG7uO1daxshLLaQtI3X8TatiQaP?usp=sharing)
@@ -49,3 +79,6 @@ This repository uses **Git tags and GitHub Releases** to track major project mil
 
 - **Tags** mark important points in the project timeline (e.g., `v0.1`, `v1.0`)
 - **Releases** are published snapshots based on tags and may include notebooks, reports, or model artifacts
+
+## License
+This project is licensed under the MIT License.
